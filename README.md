@@ -5,7 +5,8 @@ A Python-based local network scanner that discovers all connected devices, resol
 ---
 
 ## 🖼️ Screenshots
-> *(Add screenshots after running)*
+<img width="1912" height="990" alt="image" src="https://github.com/user-attachments/assets/46f760e6-4cdf-4bbc-8e60-a4ba038a7567" />
+
 
 ## 🚀 Live Demo
 > *(Deploy on Render and add link here)*
